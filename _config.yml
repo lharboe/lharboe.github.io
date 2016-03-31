@@ -9,7 +9,7 @@
 title: Eleven Eighty
 email: lharboe@me.com
 description: > # this means to ignore newlines until "baseurl:"
-  A linklog by Louis Harboe. For when I find something interesting and have something to say about it. 
+  By Louis Harboe. For when I find something interesting and have something to say about it. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://lharboe.github.io" # the base hostname & protocol for your site
 twitter_username: spiralstairs
