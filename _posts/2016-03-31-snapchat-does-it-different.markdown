@@ -4,9 +4,9 @@ title:  "Snapchat Does It Different"
 date:   2016-03-31 01:30:53 -0700
 ---
 
-Video calling. You thought you understood how it worked. It’s Skype. It’s FaceTime. It’s your friend requesting to see you in real time. (Probably when you don’t want them to.) You thought you understood how it looked too. Your friend’s face, fullscreen, front and center. Your face, smaller, off in the corner. (You look over there when you want to adjust your hair.) That’s video calling. Big whoop.
+Video calling. You thought you understood how it worked. It’s Skype. It’s FaceTime. It’s your friend requesting to see you in real time. (Probably when you don’t want them to.) You thought you understood how it looked too. Your friend’s face, fullscreen, front and center. Your face, smaller, off in the corner. (You look over there when you want to adjust your hair.) That’s video calling. Right?
 
-But just when you thought you had it all figured out—just when you got comfortable with video calling—it’s changing. That’s right. That FaceTime thing? Old news.
+Wrong. Just when you thought you had it all figured out—just when you got comfortable with video calling—it’s changing. That’s right. That FaceTime thing? Old news.
 
 Snapchat has an update. Anotha one. This one transforms the chat feature from a nice-to-have into something much more substantive and familiar. It’s got video calling. It’s got audio calling too. It even has stickers. But let me be clear, this update does not make Snapchat just another messaging app. It is still, very much so, uniquely Snapchat. Allow me to explain.
 
@@ -27,7 +27,7 @@ Yesterday’s update added new features and built upon this approach. The update
 
 ## Keeping Things Interesting
 
-Snapchat is always introducing more fun features like these. As soon as the service starts to get old, something new is introduced. In 2013 the introduction of the My Story feature kept things interesting. It added complexity just when users were starting to get bored. And if you haven’t heard, we millennials get bored. Hell, we don’t even follow the news unless it’s brought to us on Facebook as a 2-minute video.
+Snapchat is always introducing more features like these. As soon as the service starts to get old, something new is introduced. In 2013 the introduction of the My Story feature kept things interesting. It added complexity just when users were starting to get bored. And if you haven’t heard, we millennials get bored. Hell, we don’t even follow the news unless it’s brought to us on Facebook as a 2-minute video.
 
 The My Story feature quickly became an essential part of Snapchat. And as soon as stories started to feel normal, Snapchat was updated. Again. This time with a chat feature. And then we got Snapcash and then Geofilters and then Lenses. Yesterday we got yet another update. You get the idea.
 
