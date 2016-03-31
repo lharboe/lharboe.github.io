@@ -21,3 +21,12 @@ Even if you’ve managed to find way inside Millennium Station, it’s still dif
 The hardest part of designing a map is choosing what details to show and what to hide. This becomes especially important in digital maps that can have various modes and change based on context.
 
 I think Apple (above, Google below) has done a particularly good job designing their new transit maps. It’s a beautiful example of a map that shows exactly what matters for the current context. In this case, station entrances, boundaries, and train lines overlaid on a simple two-tone street map. The placement of these elements, I’ll note, is also extremely accurate.
+
+<div class="callout callout-right new-england-callout callout-top">
+	<div class="new-england-callout-frame">
+	<figure class="new-england-callout-figure"></figure>
+	</div>
+	<figcaption class="new-england-callout-caption">
+	<span>The Arm</span>
+	Bounded by Buzzards Bay to the west, Cape Cod Bay to the north, and Nantucket Sound to the south, Cape Cod juts out into the Atlantic Ocean like a crooked arm making a fist.</figcaption>
+	</div>
