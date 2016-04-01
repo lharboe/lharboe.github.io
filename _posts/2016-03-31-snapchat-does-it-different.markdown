@@ -16,7 +16,7 @@ Snapchat has an update. Anotha one. This one transforms the chat feature from a 
 
 ## Uniquely Familliar
 
-You see, there are lots of messaging apps out there. So many that it’s almost like there’s a template now for these sort of things. Because popular messaging apps all implement the same features: texting, video calling, stickers. But Snapchat continues to impress me in the ways it adds small, entertaining, irregularities to conventional communication methods. Snapchat’s implementation of these template features go beyond exception. They are seemingly familiar but undoubtedly unique.
+You see, there are lots of messaging apps out there. So many that it’s almost like there’s a template now for these sort of things. Because popular messaging apps all implement the same features: texting, video calling, stickers. But Snapchat continues to impress me in the ways it adds small, entertaining, irregularities to conventional communication methods. Snapchat’s implementation of these template features go beyond expectation. They are seemingly familiar but undoubtedly unique.
 
 Take the implementation of video calling. It caught most users off guard when it was announced inside Snapchat in 2014. Because it was different. Video calling was only enabled when two friends were present in a text chat at the same time. And it only lasted as long as you pressed your finger on the screen. And your face was framed inside a small circle that followed your finger as it moved. It was different, but it wasn’t unintuitive. After using it once I found it quite natural. It was video calling *the Snapchat way*.
 
