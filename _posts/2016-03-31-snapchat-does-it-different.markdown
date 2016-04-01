@@ -14,7 +14,7 @@ Snapchat has an update. Anotha one. This one transforms the chat feature from a 
 *FaceTime or Snapchat? We’ll never know.*
 
 
-## Uniquely Familliar
+## Uniquely Familiar
 
 You see, there are lots of messaging apps out there. So many that it’s almost like there’s a template now for these sort of things. Because popular messaging apps all implement the same features: texting, video calling, stickers. But Snapchat continues to impress me in the ways it adds small, entertaining, irregularities to conventional communication methods. Snapchat’s implementation of these template features go beyond expectation. They are seemingly familiar but undoubtedly unique.
 
